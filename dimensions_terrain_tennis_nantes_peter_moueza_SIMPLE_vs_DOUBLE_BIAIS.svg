@@ -31,8 +31,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="269.64286"
-     inkscape:cy="757.28238"
+     inkscape:cx="300.14509"
+     inkscape:cy="700.13953"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -312,5 +312,41 @@
          x="95.5345"
          y="95.976784"
          style="fill:#ff0000;stroke-width:0.13859825">0.914</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.308036,124.64285 C 16.720464,98.146715 22.646145,74.508974 39.120534,57.552081"
+       id="path4633"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.68006,44.322915 c 5.91621,37.54299 -6.3651,65.172015 -20.78869,92.793155"
+       id="path4635"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.89791632px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.1724479"
+       x="6.0931783"
+       y="74.662682"
+       id="text4639"
+       transform="scale(0.97357215,1.0271452)"><tspan
+         sodipodi:role="line"
+         id="tspan4637"
+         x="6.0931783"
+         y="74.662682"
+         style="fill:#ff0000;stroke-width:0.1724479">8m23</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.19623709px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.17990592"
+       x="169.9117"
+       y="112.87346"
+       id="text4643"
+       transform="scale(0.98107785,1.0192871)"><tspan
+         sodipodi:role="line"
+         id="tspan4641"
+         x="169.9117"
+         y="112.87346"
+         style="fill:#ff0000;stroke-width:0.17990592">10m97</tspan></text>
   </g>
 </svg>

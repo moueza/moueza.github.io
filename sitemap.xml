@@ -8,15 +8,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
 
- <url>
+    <url>
         <loc>https://moueza.github.io/architecture.html</loc>
 
-        
+        <image:image>
+            <image:loc></image:loc>
+            <image:caption>Art Biology cells in blood</image:caption> 
+        </image:image>
+
         <lastmod>2019-07-05</lastmod>
         <changefreq>daily</changefreq>
 
         <priority>0.80</priority>
-      </url>
+    </url>
 
- </urlset>
+</urlset>
 

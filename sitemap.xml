@@ -31,5 +31,22 @@
 
         <priority>0.80</priority>
     </url>
+    
+    
+    
+    
+     <url>
+        <loc>https://moueza.github.io/dimensions-terrain-tennis-nantes-peter-moueza.html</loc>
+
+        <image:image>
+            <image:loc>https://moueza.github.io/dimensions-terrain-tennis-nantes-peter-moueza-SIMPLE-vs-DOUBLE-BIAIS.png</image:loc>
+            <image:caption>Schéma des principales dimensions ou cotes d un terrain de tennis</image:caption> 
+        </image:image>
+
+        <lastmod>2019-07-17</lastmod>
+        <changefreq>daily</changefreq>
+
+        <priority>0.79</priority>
+    </url>
 </urlset>
 

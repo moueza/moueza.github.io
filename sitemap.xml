@@ -11,12 +11,8 @@
     <url>
         <loc>https://moueza.github.io/architecture.html</loc>
 
-        <image:image>
-            <image:loc></image:loc>
-            <image:caption>Art Biology cells in blood</image:caption> 
-        </image:image>
-
-        <lastmod>2019-07-05</lastmod>
+    
+        <lastmod>2019-07-17</lastmod>
         <changefreq>daily</changefreq>
 
         <priority>0.80</priority>

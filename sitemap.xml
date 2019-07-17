@@ -18,12 +18,12 @@
         <priority>0.80</priority>
     </url>
 
-  <url>
-        <loc>https://moueza.github.io/architecture.html</loc>
+    <url>
+        <loc>https://moueza.github.io/maquette-nantes-malakoff-programme-immobilier-eriol.html</loc>
 
         <image:image>
-            <image:loc></image:loc>
-            <image:caption>Art Biology cells in blood</image:caption> 
+            <image:loc>https://moueza.github.io/programme-immobilier-nantes-malakoff-eriol-moueza.jpg</image:loc>
+            <image:caption>Image du programme immobilier</image:caption> 
         </image:image>
 
         <lastmod>2019-07-17</lastmod>
@@ -31,7 +31,5 @@
 
         <priority>0.80</priority>
     </url>
-programme-immobilier-nantes-malakoff-eriol-moueza.jpg
-maquette-nantes-malakoff-programme-immobilier-eriol.html
 </urlset>
 

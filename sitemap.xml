@@ -79,5 +79,23 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
     <priority>0.95</priority>
   </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://alls-authenth.web.app/peinturemurale</loc>
+
+    <image:image>
+      <image:loc>https://moueza.github.io/peinture-murale-peter-moueza-nantes.jpg</image:loc>
+      <image:caption>Peinture murale 3D de Peter MOUEZA de Nantes</image:caption> 
+    </image:image>
+
+    <lastmod>2019-08-17</lastmod>
+    <changefreq>daily</changefreq>
+
+    <priority>0.80</priority>
+  </url>
 </urlset>
 

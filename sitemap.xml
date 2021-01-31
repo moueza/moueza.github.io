@@ -109,13 +109,27 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
     
 
-    <lastmod>2021-01-25</lastmod>
+    <lastmod>2021-01-30</lastmod>
     <changefreq>daily</changefreq>
 
     <priority>0.90</priority>
   </url>
   
 
+
+
+  <url>
+    <loc>https://moueza.github.io/index-des-ressources-resources-moueza-peter.html</loc>
+
+    
+
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+
+    <priority>0.90</priority>
+  </url>
+  
+  
 
   
 </urlset>

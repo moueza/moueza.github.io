@@ -16,5 +16,5 @@ jobs:
     #https://stackoverflow.com/questions/59954185/github-action-split-long-command-into-multiple-lines
     - name: Run a one-line script
       run: |
-          echo Hello from Octo Organization
-          run: touch poubActionsOctoOrganizationCI.txt
+          echo Hello from Octo Organization \
+          touch poubActionsOctoOrganizationCI.txt

@@ -13,6 +13,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    #https://stackoverflow.com/questions/59954185/github-action-split-long-command-into-multiple-lines
     - name: Run a one-line script
-      run: echo Hello from Octo Organization
-      run: touch poubActionsOctoOrganizationCI.txt
+      run: |
+          echo Hello from Octo Organization
+          run: touch poubActionsOctoOrganizationCI.txt

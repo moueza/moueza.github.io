@@ -1,0 +1,20 @@
+name: Octo Organization CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    #https://stackoverflow.com/questions/59954185/github-action-split-long-command-into-multiple-lines
+    - name: Run a one-line script
+      run: |
+          echo Hello from Octo Organization \
+          touch poubActionsOctoOrganizationCI.txt

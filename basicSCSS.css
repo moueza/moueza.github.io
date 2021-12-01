@@ -4,6 +4,9 @@ Tooltip container */
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  
+  /*https://developer.mozilla.org/en-US/docs/Web/CSS/background-color*/
+  background-color: #090909ff;/*opaque grey*/
 }
 
 /* Tooltip text */

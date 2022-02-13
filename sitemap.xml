@@ -120,10 +120,10 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
     <loc>https://moueza.github.io/index-des-ressources-resources-moueza-peter.html</loc>
-    <lastmod>2021-03-05</lastmod>
+    <lastmod>2022-02-14</lastmod>
     <changefreq>daily</changefreq>
 
-    <priority>0.90</priority>
+    <priority>0.95</priority>
   </url>
   <url>
     <loc>https://moueza.github.io/alls/tennis-vigneau-horaires-nantes.html</loc>

@@ -67,6 +67,11 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
 
 
+  
+
+
+
+
 
   <url>
     <loc>https://moueza.github.io/</loc>
@@ -139,14 +144,26 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
 
 
-   <url>
+  <url>
     <loc>https://moueza.github.io/statue-Louis-CHARLES-comte-DUCHAFFAULT-de-besne-gare-maritime-Nantes.html</loc>
     <lastmod>2024-05-18</lastmod>
+
+
+    <image:image>
+      <image:loc>https://moueza.github.io/20210830_120502_gare_maritime_Louis-Charles_Chaffault_Besne.jpg</image:loc>
+      <image:caption>Statue de Louis CHARLES comte DU CHAFFAULT à Nantes à l'arret de tramway Gare Maritime</image:caption> 
+    </image:image>
+
+
+    
     <changefreq>daily</changefreq>
 
     <priority>0.90</priority>
   </url>
 
-  
+
+
+
+
 </urlset>
 

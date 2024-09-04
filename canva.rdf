@@ -1,0 +1,4 @@
+@prefix : <http://exemple.org/> .
+
+:102 :suivant :103 .
+:103 :suivant :104 .

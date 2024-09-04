@@ -27,15 +27,15 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
 
 
-      <image:image>
+    <image:image>
       <image:loc>https://moueza.github.io/20210830_120502_gare_maritime_Louis-Charles_Chaffault_Besne_SMALL05.jpg</image:loc>
       <image:caption>Statue de Louis CHARLES comte DU CHAFFAULT à l'arret de tramway Gare Maritime de Nantes SMALL 5%</image:caption> 
-      </image:image>
+    </image:image>
 
 
 
 
-      
+    
 
     
     <changefreq>daily</changefreq>

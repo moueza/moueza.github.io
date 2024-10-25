@@ -1,2 +1,2 @@
 clean:
-	rm -Rf *~
+	find . -name '*~' -type f -delete

@@ -1,0 +1,176 @@
+Read prefs: /home/peter/.config/blender/2.93/config/userpref.blend
+Read blend: /home/peter/POUB/blender/statueLouisCHARLESgareMaritimeMainleveeSculpt.blend
+Info: Saved "statueLouisCHARLESgareMaritimeMainleveeSculpt.blend"
+
+Info: Saved "statueLouisCHARLESgareMaritimeMainleveeSculpt.blend"
+
+Info: Saved "statueLouisCHARLESgareMaritimeMainleveeSculpt.blend"
+
+X connection to :0 broken (explicit kill or server shutdown).
+CAD_Sketcher-main:{INFO}: Logging into: /tmp/CAD_Sketcher-main.log
+CAD_Sketcher-main:{INFO}: Copy addon presets to: /home/peter/.config/blender/3.2/scripts/presets/bgs
+CAD_Sketcher-main:{WARNING}: Solvespace module isn't available, only base modules registered
+/home/peter/blender-3.2.0-linux-x64/3.2/python/bin/python3.10: No module named pip
+Looking in links: /tmp/tmpzcop313s
+Processing /tmp/tmpzcop313s/setuptools-58.1.0-py3-none-any.whl
+Processing /tmp/tmpzcop313s/pip-21.2.4-py3-none-any.whl
+Installing collected packages: setuptools, pip
+Successfully installed pip-21.2.4 setuptools-58.1.0
+Requirement already satisfied: pip in /home/peter/blender-3.2.0-linux-x64/3.2/python/lib/python3.10/site-packages (21.2.4)
+Collecting pip
+  Downloading pip-22.1.2-py3-none-any.whl (2.1 MB)
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 21.2.4
+    Uninstalling pip-21.2.4:
+      Successfully uninstalled pip-21.2.4
+Successfully installed pip-22.1.2
+Collecting py-slvs
+  Downloading py_slvs-1.0.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (294 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 294.1/294.1 kB 1.1 MB/s eta 0:00:00
+Installing collected packages: py-slvs
+Successfully installed py-slvs-1.0.3
+Name: py-slvs
+Version: 1.0.3
+Summary: Python binding of SOLVESPACE geometry constraint solver
+Home-page: https://github.com/realthunder/slvs_py
+Author: Zheng, Lei
+Author-email: realthunder.dev@gmail.com
+License: Gnu General Public License 3.0
+Location: /home/peter/blender-3.2.0-linux-x64/3.2/python/lib/python3.10/site-packages
+Requires: 
+Required-by: 
+Read prefs: /home/peter/.config/blender/3.2/config/userpref.blend
+Info: Package successfully installed
+
+Saved session recovery to '/tmp/quit.blend'
+Writing userprefs: '/home/peter/.config/blender/3.2/config/userpref.blend' ok
+Info: Preferences saved
+addon_utils.disable: CAD_Sketcher-main not disabled
+Modules Installed (CAD_Sketcher-main) from '/home/peter/Downloads/CAD_Sketcher-main.zip' into '/home/peter/.config/blender/3.2/scripts/addons'
+
+Blender quit
+CAD_Sketcher-main:{INFO}: Logging into: /tmp/CAD_Sketcher-main.log
+Read prefs: /home/peter/.config/blender/3.2/config/userpref.blend
+Read blend: /home/peter/POUB/blender/modeleBl320.blend
+Info: Saved "CADsketcher.blend"
+
+Info: Saved "CADsketcher.blend"
+
+Writing userprefs: '/home/peter/.config/blender/3.2/config/userpref.blend' ok
+Info: Preferences saved
+
+Writing userprefs: '/home/peter/.config/blender/3.2/config/userpref.blend' ok
+Info: Preferences saved
+
+Info: Saved "CADsketcher.blend"
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+Read blend: /home/peter/Downloads/Z-Anatomy/zanatomyPoubBRAIN.blend
+Writing userprefs: '/home/peter/.config/blender/3.2/config/userpref.blend' ok
+Info: Preferences saved
+
+Writing userprefs: '/home/peter/.config/blender/3.2/config/userpref.blend' ok
+Info: Preferences saved
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+ERROR (gpu.shader): GPU_material_compile Linking: 
+      | Error: unresolved reference to function `attr_load_color_post'
+
+Read prefs: /home/peter/.config/blender/2.93/config/userpref.blend
+Read blend: /home/peter/POUB/blender/tennisCAD.blend
+Info: Deleted 1 object(s)
+
+Info: Text.003 moved to LARGE 1poteauIntern
+
+Info: Deleted 1 object(s)
+
+Info: Saved "tennisCAD.blend"
+
+Info: Saved "tennisCAD.blend"
+
+Info: Saved "tennisCAD.blend"
+
+Info: Saved "tennisCAD.blend"
+
+Info: Saved "tennisCAD.blend"
+
+Read blend: /home/peter/POUB/blender/FNAC/FnacStatuesDV/statueFnacDVpretreHenriLeNavigateurMainleveeSculpt.blend
+Info: Saved "statueFnacDVpretreHenriLeNavigateurMainleveeSculpt.blend"
+
+Read blend: /home/peter/POUB/blender/tennisCAD.blend
+Info: Saved "tennisCAD.blend"
+
+Info: Saved "tennisCAD.blend"
+
+Info: Deleted 1 object(s)
+
+Info: Saved "tennisCAD.blend"
+
+Read blend: /home/peter/POUB/blender/FNAC/FnacStatuesDV/statueFnacDVpretreHenriLeNavigateurMainleveeSculpt.blend
+Read blend: /home/peter/POUB/blender/tennisCAD.blend
+Info: Saved "tennisCAD.blend"
+
+Info: Saved "tennisCAD.blend"
+
+Read blend: /home/peter/POUB/blender/FNAC/FnacStatuesDV/statueFnacDVpretreHenriLeNavigateurMainleveeSculpt.blend
+Read blend: /home/peter/POUB/blender/tennisCAD.blend
+Info: Saved "tennisCAD.blend"
+
+Info: Saved "tennisCAD.blend"
+
+X connection to :0 broken (explicit kill or server shutdown).
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Freeing memory after the leak detector has run. This can happen when using static variables in C++ that are defined outside of functions. To fix this error, use the 'construct on first use' idiom.
+Read blend: /home/peter/POUB/blender/FNAC/FnacStatuesDV/statueFnacDVpretreHenriLeNavigateurMainleveeSculpt.blend
+Read blend: /home/peter/Downloads/Z-Anatomy/zanatomyPoub.blend
+Error: Not freed memory blocks: 270377, total unfreed memory 140.992798 MB

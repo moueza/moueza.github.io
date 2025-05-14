@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+
+
+
+
+
+
+
+  
+
+  <url>
+
+
+    <image:image>
+      <image:loc>https://moueza.github.io/20210830_120502_gare_maritime_Louis-Charles_Chaffault_Besne_BIG.jpg</image:loc>
+      <image:caption>Statue de Louis CHARLES comte DU CHAFFAULT à Nantes à l'arret de tramway Gare Maritime BIG</image:caption> 
+    </image:image>
+
+
+
+
+    <image:image>
+      <image:loc>https://moueza.github.io/20210830_120502_gare_maritime_Louis-Charles_Chaffault_Besne_SMALL05.jpg</image:loc>
+      <image:caption>Statue de Louis CHARLES comte DU CHAFFAULT à l'arret de tramway Gare Maritime de Nantes SMALL 5%</image:caption> 
+    </image:image>
+
+
+
+
+    
+
+    
+    <changefreq>daily</changefreq>
+
+    <priority>0.90</priority>
+  </url>
+
+
+
+
+
+</urlset>
+
